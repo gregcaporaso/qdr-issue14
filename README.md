@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/11339/gregcaporaso/qdr-issue14.svg)](http://dx.doi.org/10.5281/zenodo.16901)
+[![DOI](https://zenodo.org/badge/11339/gregcaporaso/qdr-issue14.svg)](http://dx.doi.org/10.5281/zenodo.16908)
 
 # Non-peer-reviewed analysis: Greengenes 85% OTU PyNAST alignment appears to be a suitable replacement for the Greengenes Core Set template alignment for use with PyNAST.
 
