@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/11339/gregcaporaso/qdr-issue14.svg)](http://dx.doi.org/10.5281/zenodo.16901)
 
-# Greengenes 85% OTU PyNAST alignment appears to be a suitable replacement for the Greengenes Core Set template alignment for use with PyNAST.
+# Non-peer-reviewed analysis: Greengenes 85% OTU PyNAST alignment appears to be a suitable replacement for the Greengenes Core Set template alignment for use with PyNAST.
 
 This analysis and discussion arises from notes I put together while working on biocore/qiime-default-reference#14.
 
@@ -23,4 +23,4 @@ To view and interact with an [IPython Notebook](http://ipython.org/notebook.html
 
 ## Citing
 
-If you use any of the data or code included in this repository, please cite as: *Greengenes 85% OTU PyNAST alignment appears to be a suitable replacement for the Greengenes Core Set template alignment for use with PyNAST. J Gregory Caporaso (2015, DOI: ``include DOI listed above``).*
+If you use any of the data or code included in this repository, please cite as: *Non-peer-reviewed analysis: Greengenes 85% OTU PyNAST alignment appears to be a suitable replacement for the Greengenes Core Set template alignment for use with PyNAST. J Gregory Caporaso (2015, DOI: ``include DOI listed above``).*
