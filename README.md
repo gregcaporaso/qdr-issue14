@@ -2,14 +2,16 @@
 
 # Non-peer-reviewed analysis: Greengenes 85% OTU PyNAST alignment appears to be a suitable replacement for the Greengenes Core Set template alignment for use with PyNAST.
 
-This analysis and discussion arises from notes I put together while working on biocore/qiime-default-reference#14.
+To view a static version of these analyses, [start here](http://nbviewer.ipython.org/github/gregcaporaso/qdr-issue14/blob/master/analyses.ipynb). 
+
+This analysis and discussion arises from notes I put together while working on [biocore/qiime-default-reference#14](https://github.com/biocore/qiime-default-reference/issues/14).
 
 This repository contains python code and IPython Notebooks designed to run on the QIIME 1.9.0 AWS instance. You can find
 that AMI on the [QIIME resources page](http://qiime.org/home_static/dataFiles.html).
 
 ## Setup and install
 
-The analyses presented in our paper were run on an m3.2xlarge instance (some of the steps are run in parallel on four processors). 
+The analyses presented in our paper were run on an m3.2xlarge instance (some of the steps are run in parallel on eight processors). 
 
 The notebooks can be installed as follows on the 1.9.0 AWS instance.
 
